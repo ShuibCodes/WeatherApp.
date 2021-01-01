@@ -67,7 +67,7 @@ return(
             </div>
           </div>  
                ) : (<div className="error" >
-                    <h3 className="error-message" >Please Enter A Location</h3>
+                    <h3 className="error-message" >Please Enter A Location:</h3>
 
                </div>)}
     </div>
